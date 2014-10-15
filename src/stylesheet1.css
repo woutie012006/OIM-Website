@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(IMG/bg.jpg) no-repeat left top fixed;
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
+#text {
+    height: 100%;
+    width: 100%;
+    font-family: impact, Haettenschweiler;
+    font-size: 500%;
+    color: white;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 0px;
+    text-decoration: none;
+}
+.button {
+    font-size: 50%;
+    width: 200px;
+    -webkit-transition: all .2s;
+    background: #e3e3e3;
+    line-height: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, .5), 1px 1px 5px rgba(0, 0, 0, .3);
+    cursor: pointer;
+    opacity: 0.7;
+    text-decoration: none;
+}
+.button:hover {
+    background: #333;
+    color: #e3e3e3 text-decoration: none;
+    text-decoration: none;
+}
+#subtekst{
+text-decoration: none;}
